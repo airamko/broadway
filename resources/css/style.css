@@ -1,0 +1,18 @@
+body{
+	font-family: helvetica;
+	text-align: center;
+}
+
+h1 {
+	font-size: 70px;
+	font-weight: bold;
+}
+
+.header {
+	color: white;
+}
+
+.link {
+	color: white;
+	font-size: 18px;
+}
