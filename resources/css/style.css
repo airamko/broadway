@@ -16,3 +16,28 @@ h1 {
 	color: white;
 	font-size: 18px;
 }
+
+h2{
+	font-size: 32px;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 23px;
+}
+
+.ny {
+	font-size: 23px;
+	color: white;
+}
+
+p {
+	font-size: 14px;
+}
+
+.footer {
+	background-color: dimgray;
+	font-size: 11px;
+	color: white;
+	text-align: left;
+}
